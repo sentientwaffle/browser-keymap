@@ -4,10 +4,10 @@
 ///
 /// Example key strings:
 ///
-///   * "A-C-r"   - control-alt-r
-///   * "!"       - shift-1
-///   * "C-a"     - control-a
-///   * "S-enter" - shift-enter
+///   * "A-C-r" - control-alt-r
+///   * "!"     - shift-1
+///   * "C-a"   - control-a
+///   * "S-\n"  - shift-enter
 ///
 /// Returns Maybe String.
 module.exports = function(ev) {

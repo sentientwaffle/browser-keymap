@@ -10,8 +10,8 @@ A browserify module to convert keydown events to a string.
 
 # Examples
 
-  * `A-C-r`   - control-alt-r
-  * `!`       - shift-1
-  * `C-a`     - control-a
-  * `S-enter` - shift-enter
+  * `A-C-r` - control-alt-r
+  * `!`     - shift-1
+  * `C-a`   - control-a
+  * `S-\n`  - shift-enter
 
