@@ -1,6 +1,6 @@
 {
   "name": "browser-keymap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "browserify module to convert keydown events to string",
   "main": "index.js",
   "scripts": {
