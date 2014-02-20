@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sentientwaffle/browser-keymap.git"
+  },
+  "homepage": "https://github.com/sentientwaffle/browser-keymap",
   "keywords": [
     "browserify"
   ],
